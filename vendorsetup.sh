@@ -21,5 +21,5 @@
 # function: add_lunch_combo generic-eng
 
 for var in eng user userdebug; do
-  add_lunch_combo omni_One_Max-$var
+  add_lunch_combo omni_one_max-$var
 done

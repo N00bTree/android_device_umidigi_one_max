@@ -1,5 +1,5 @@
 # Device path
-LOCAL_PATH := device/UMIDIGI/One_Max
+LOCAL_PATH := device/UMIDIGI/one_max
 
 # Architecture
 TARGET_ARCH := arm64

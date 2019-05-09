@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/omni_One_Max.mk
+	$(LOCAL_DIR)/omni_one_max.mk
